@@ -2,4 +2,5 @@
 Test for JSM2019 short course
 
 author Paul Schuette
-coauther Yonggang Yao
+
+coauthor Yonggang Yao
